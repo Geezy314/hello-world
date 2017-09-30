@@ -1,2 +1,5 @@
 # hello-world
-First project repository
+
+Just doing the tutorial.
+
+Nothing to see here.
